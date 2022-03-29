@@ -4007,8 +4007,6 @@ input[type="button"].btn-block {
   border-color: #ddd;
   background: #ddd -webkit-gradient(linear, left top, left bottom, from(#e2e2e2), to(#ddd)) repeat-x;
   background: #ddd linear-gradient(180deg, #e2e2e2, #ddd) repeat-x;
-  -webkit-box-shadow:;
-          box-shadow:;
 }
 
 .custom-control-input:focus ~ .custom-control-label::before {
@@ -4024,8 +4022,6 @@ input[type="button"].btn-block {
   color: #fff;
   background-color: white;
   border-color: white;
-  -webkit-box-shadow:;
-          box-shadow:;
 }
 
 .custom-control-input[disabled] ~ .custom-control-label, .custom-control-input:disabled ~ .custom-control-label {
@@ -4080,8 +4076,6 @@ input[type="button"].btn-block {
   border-color: #ddd;
   background: #ddd -webkit-gradient(linear, left top, left bottom, from(#e2e2e2), to(#ddd)) repeat-x;
   background: #ddd linear-gradient(180deg, #e2e2e2, #ddd) repeat-x;
-  -webkit-box-shadow:;
-          box-shadow:;
 }
 
 .custom-checkbox .custom-control-input:indeterminate ~ .custom-control-label::after {
@@ -13452,7 +13446,7 @@ a.close_gis_editor {
   top: 0;
   left: 0;
   height: 100vh;
-  background: #40434b;
+  background: #1c1c1c;
   color: #f3f3f3;
   z-index: 800;
 }
@@ -15860,7 +15854,7 @@ body {
   margin: 0;
   margin-left: 240px;
   color: #eaeaea !important;
-  background: #282a2f !important;
+  background: #1c1c1c !important;
 }
 
 h2 {
@@ -16159,7 +16153,7 @@ table tbody:first-of-type tr:not(.nopointer):hover th,
 }
 
 .CodeMirror, .CodeMirror-gutters {
-  background: #282a36 !important;
+  background: #1c1c1c !important;
   color: #f8f8f2 !important;
 }
 
